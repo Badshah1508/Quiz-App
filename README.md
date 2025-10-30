@@ -24,7 +24,7 @@ The Quiz-App is an interactive web application built using React.js that allows 
 It dynamically presents multiple-choice questions, captures user answers, and provides instant feedback and scoring.
 
 The app focuses on delivering a smooth, responsive, and user-friendly experience, making learning and self-assessment both fun and engaging.
-You can view the live portfolio at: [LIVE PREVIEW](https://badshahyadav.github.io/Quiz-App/)
+You can view the live portfolio at: [LIVE PREVIEW](https://badshah1508.github.io/Quiz-App/)
 
 ## Features
 
@@ -189,3 +189,4 @@ If you have any questions or feedback, feel free to contact me via the [contact 
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
